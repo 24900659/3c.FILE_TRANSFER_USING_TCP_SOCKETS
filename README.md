@@ -90,8 +90,10 @@ host = socket.gethostname()
 
 ## OUPUT
 client:
+
 ![Screenshot (51)](https://github.com/user-attachments/assets/b96c6f49-3080-4fc4-a957-c5086eb996af)
 server:
+
 ![Screenshot (52)](https://github.com/user-attachments/assets/2916e8fc-3764-48f6-9505-484c0d555f38)
 
 ## RESULT
